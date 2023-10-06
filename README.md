@@ -1,4 +1,4 @@
-# ghcr.io/bytebits9/bun
+# ghcr.io/nulldark/bun
 
 ## Usage
 
@@ -6,8 +6,8 @@
 
 The recommended way
 
-``` docker pull ghcr.io/bytebits9/bun ```
+``` docker pull ghcr.io/nulldark/bun ```
 
 To use a specific version, you can pull a versioned tag.
 
-``` docker pull ghcr.io/bytebits9/bun:[TAG]```
+``` docker pull ghcr.io/nulldark/bun:[TAG]```

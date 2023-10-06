@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-LABEL org.opencontainers.image.authors="Dominik Szamburski <bytebits9>"
-LABEL org.opencontainers.image.source=https://github.com/bytebits9/bun
+LABEL org.opencontainers.image.authors="Dominik Szamburski <nulldark>"
+LABEL org.opencontainers.image.source=https://github.com/nulldark/bun
 LABEL org.opencontainers.image.licenses=MIT
 
 RUN apk update \
