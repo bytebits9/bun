@@ -1,13 +1,23 @@
-# ghcr.io/nulldark/bun
+# bun
 
-## Usage
+## Quick reference
 
-### Get an image
+- **Image based on**:
+  [alpine](https://hub.docker.com/_/alpine)
 
-The recommended way
+- **Supported architectures**:
+  `linux/amd64`, `linux/arm64`
 
-``` docker pull ghcr.io/nulldark/bun ```
+- **Maintained by**:
+  [sxbrsky](https://github.com/sxbrsky)
 
-To use a specific version, you can pull a versioned tag.
+- **Where to file issues**:
+  [https://github.com/sxbrsky/docker-bun/issues](https://github.com/sxbrsky/docker-bun/issues?q=)
 
-``` docker pull ghcr.io/nulldark/bun:[TAG]```
+## Supported tags and respective Dockerfile links
+
+[`All supported tags see here`](https://hub.docker.com/r/sxbrsky/bun/tags)
+
+## LICENSE
+
+View [license](https://bun.sh/docs/project/licensing) information for the software contained in this image.
