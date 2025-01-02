@@ -6,10 +6,10 @@
   `linux/amd64`, `linux/arm64`
 
 - **Maintained by**:  
-  [sxbrsky](https://github.com/sxbrsky)
+  [grmvoid](https://github.com/grmvoid)
 
 - **Where to file issues**:    
-  [https://github.com/sxbrsky/docker-bun/issues](https://github.com/sxbrsky/docker-bun/issues?q=)
+  [https://github.com/grmvoid/docker-bun/issues](https://github.com/grmvoid/docker-bun/issues?q=)
 
 ## Supported tags and respective `Dockerfile` links
 

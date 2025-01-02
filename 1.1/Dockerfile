@@ -4,13 +4,13 @@ ARG BUN_VERSION=1.1.38
 ARG BUN_URL="https://bun.sh/install"
 
 LABEL org.opencontainers.image.base.name="docker.io/library/alpine:3.21" \
-      org.opencontainers.image.description="Application packaged by sxbrsky" \
-      org.opencontainers.image.documentation="https://github.com/sxbrsky/docker-bun/tree/master/README.md" \
+      org.opencontainers.image.description="Application packaged by grmvoid" \
+      org.opencontainers.image.documentation="https://github.com/grmvoid/docker-bun/tree/master/README.md" \
       org.opencontainers.image.licenses="MIT" \
       org.opencontainers.image.ref.name="${BUN_VERSION}" \
-      org.opencontainers.image.source="https://github.com/sxbrsky/docker-bun/tree/master/1.1" \
+      org.opencontainers.image.source="https://github.com/grmvoid/docker-bun/tree/master/1.1" \
       org.opencontainers.image.title="bun" \
-      org.opencontainers.image.vendor="sxbrsky" \
+      org.opencontainers.image.vendor="grmvoid" \
       org.opencontainers.image.version="${BUN_VERSION}"
 
 RUN set -eux; \
