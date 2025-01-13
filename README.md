@@ -13,15 +13,15 @@
 
 ## Supported tags and respective `Dockerfile` links
 
-- `1.1.38`, `1.1`
-- `1.0.36`, `1.0`
+- [`1.1.38`, `1.1`](https://github.com/grmvoid/docker-bun/blob/master/1.1/Dockerfile)
+- [`1.0.36`, `1.0`](https://github.com/grmvoid/docker-bun/blob/master/1.0/Dockerfile)
 
 ## How to use this image
 
 Create a `Dockerfile`
 
 ```Dockerfile
-FROM sxbkrsy/bun:1.1.38
+FROM grmvoid/bun:1.1.38
 COPY . /app
 WORKDIR /app
 CMD [ "bun", "./script.js" ]
