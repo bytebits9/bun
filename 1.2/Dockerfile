@@ -1,6 +1,6 @@
 FROM alpine:3.21
 
-ARG BUN_VERSION=1.2.0
+ARG BUN_VERSION=1.2.1
 ARG BUN_URL="https://bun.sh/install"
 
 LABEL org.opencontainers.image.base.name="docker.io/library/alpine:3.21" \
